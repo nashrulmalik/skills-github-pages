@@ -1,6 +1,8 @@
 ---
-title: Welcome to my blog
+title: Malik Blog
 ---
 
-# Muhammad Malik Personal Site
+Hello every body, this blog is created for coursera task.
+
+
 
